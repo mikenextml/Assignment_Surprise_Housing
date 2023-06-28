@@ -1,7 +1,7 @@
 # Assignment_Surprise_Housing
 
 
-# Project Name
+# Assignment: Price Prediction: Surprise Housing
 Surprise Housing, a US-based firm that leverages data analytics to profitably flip real estate, is keen to penetrate the Australian market. They have assembled a dataset of Australian housing sales, encapsulated in the given CSV file, to aid their venture.
 
 The task is to construct a regularized regression model with this data. The model will predict the actual value of potential properties, thereby guiding the company's investment decisions.
